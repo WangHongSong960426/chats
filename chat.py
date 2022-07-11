@@ -1,4 +1,3 @@
-#chat
 def read_file(filename):
     lines = []
     with open (filename, 'r', encoding='utf-8-sig') as f:
